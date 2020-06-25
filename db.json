@@ -3,7 +3,6 @@
       {
          "id":1,
          "profile":{
-			"nimc_id":"zxczxvzxv",
             "birthcountry":"asdasdas",
             "birthdate":"22-02-1975",
             "birthlga":"qweqwe",
@@ -59,7 +58,6 @@
       {
          "id":2,
          "profile":{
-			"nimc_id":"zxczxvzxv",
             "birthcountry":"asdasdas",
             "birthdate":"22-02-1975",
             "birthlga":"qweqwe",
@@ -115,7 +113,6 @@
 	  {
          "id":3,
          "profile":{
-			"nimc_id":"zxczxvzxv",
             "birthcountry":"asdasdas",
             "birthdate":"22-02-1975",
             "birthlga":"qweqwe",
@@ -175,7 +172,6 @@
 	  {
          "id":5,
          "profile":{
-			"nimc_id":"zxczxvzxv",
             "birthcountry":"asdasdas",
             "birthdate":"22-02-1975",
             "birthlga":"qweqwe",
